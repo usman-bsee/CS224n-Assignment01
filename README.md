@@ -1,5 +1,5 @@
 # CS224n: Natural Language Processing with Deep Learning
-### **Prerequisites**
+## Prerequisites
 #### Proficiency in Python
 All class assignments will be in Python (using NumPy and PyTorch). If you need to remind yourself of Python, or you're not very familiar with NumPy, you can come to the Python review session in week 1 (listed in the schedule). If you have a lot of programming experience but in a different language (e.g. C/C++/Matlab/Java/Javascript), you will probably be fine.
 
