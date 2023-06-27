@@ -35,7 +35,7 @@ After you have installed conda, close any open terminals you might have. Then op
 
 ## 4. Homework 1 (only) is a Jupyter Notebook. With the above done you should be able to get underway by typing:
 
-    jupyter notebook CS224n_Assigment01.ipynb
+    jupyter notebook CS224n_Assignment01.ipynb
     
 ### 5. To make sure we are using the right environment, go to the toolbar of exploring_word_vectors.ipynb, click on Kernel -> Change kernel, you should see and select cs224n in the drop-down menu.
 
